@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --app-bg: #DCEAF7; /* 사용자 제안 색상 */
+  --text-dark: #1e293b; /* 진한 네이비 (필드명용) */
+  --card-bg: #ffffff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--app-bg);
+  color: var(--text-dark);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+/* 카드 내부 스크롤바: 배경색과 어울리는 톤으로 수정 */
+.card-scroll::-webkit-scrollbar {
+  width: 4px;
+}
+.card-scroll::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+.card-scroll::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 10px;
+}
+
+.value-text {
+  line-height: 1.8;
+  letter-spacing: -0.01em;
+  color: #1e293b !important;
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "event_id": "바다넴 행사",
+    "title": "VADANEM Symposium",
+    "datetime": "2025. 03. 22(토) - 03. 23(일)",
+    "venue": "라한셀렉트 경주, 컨벤션A (B1)",
+    "short_message": "존경하는 선생님, 미쓰비시다나베파마코리아 EGLANDIN STEP Up Symposium에 초대합니다.",
+    "logo_file": "Tanabe Pharma Korea"
+  },
+  "invitation": {
+    "message": "안녕하십니까.\r\n\r\n늘 환자 진료와 연구에 열정을 쏟으시는 선생님의 노고에 \r\n깊은 감사와 존경의 마음을 드립니다.\r\n\r\n저희 미쓰비시다나베파마코리아에서는\r\n3월 22일(토)~23일(일) 라한셀렉트 경주에서\r\nDMF Ulcer 전문가 선생님들을 모시고 의미 있는 학술 행사를 개최하고자 합니다.\r\n\r\n에글란딘을 중심으로 임상 데이터 및 경험을 통해 DMF Ulcer 치료 전략에 대한 논의 및 최신 지견을 공유하는\r\nSTEP Up Symposium을 준비하였습니다.\r\n\r\n이번 심포지엄을 통해 선생님들의 고견을 교류하시는\r\n유익한 학술의 장을 마련하고자 하오니,\r\n바쁘시더라도 부디 참석하시어 자리를 빛내주시기를 부탁드립니다.\r\n\r\n감사합니다.\r\n미쓰비시다나베파마코리아 드림",
+    "logo_file": "Tanabe Pharma Korea"
+  },
+  "agenda": [
+    {
+      "day_label": "3P\r\n아젠다",
+      "items": [
+        {
+          "time": "19:00 - 19:10",
+          "title": "Welcome speech",
+          "speaker": "Tanabe Pharma Korea"
+        },
+        {
+          "time": "19:10 - 19:20",
+          "title": "Opening Remarks",
+          "speaker": "좌장 : 곽희철(부산건우정형외과의원), 이근철(동아대학교병원)"
+        },
+        {
+          "time": "19:20 - 20:20",
+          "title": "Alprostadil (PGE1): Mechanisms of Action and Clinical Applications and Clinical Evidence ",
+          "speaker": "문준성(영남대학교병원)"
+        },
+        {
+          "time": "20:20 - 21:20",
+          "title": "Case Review in Diabetic Foot Management with Alprostadil",
+          "speaker": "김대유(인제대학교 부산백병원)"
+        },
+        {
+          "time": "21:20 - 21:50",
+          "title": "Q&A",
+          "speaker": "All participants"
+        },
+        {
+          "time": "21:50 - 22:00",
+          "title": "Conclusion and Closing",
+          "speaker": "좌장 : 곽희철(부산건우정형외과의원), 이근철(동아대학교병원)"
+        }
+      ]
+    },
+    {
+      "day_label": "Day2. 3월 23일(일)",
+      "items": [
+        {
+          "time": "08:00 - 08:10",
+          "title": "Opening Remarks",
+          "speaker": "좌장 : 정형진(인제대학교 상계백병원), 박기혁(대구가톨릭대학교병원)"
+        },
+        {
+          "time": "08:10 - 09:10",
+          "title": "Current Guidelines for the Management of Diabetic Foot: A Comprehensive Review",
+          "speaker": "박재용(한림대학교성심병원)"
+        },
+        {
+          "time": "09:10 - 10:10",
+          "title": "Adjunctive Therapies in Diabetic Foot Management",
+          "speaker": "김종호(분담서울대학교병원)"
+        },
+        {
+          "time": "10:10 - 10:30",
+          "title": "Q&A",
+          "speaker": "All participants"
+        },
+        {
+          "time": "10:30 - 10:40",
+          "title": "Conclusion and Closing",
+          "speaker": "좌장 : 정형진(인제대학교 상계백병원), 박기혁(대구가톨릭대학교병원)"
+        }
+      ]
+    }
+  ],
+  "location": {
+    "address": "주소: 경북 경주시 보문로 338 라한셀렉트 경주\r\n연락처: 054-748-2233",
+    "naver_map_url": "https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%20%EB%9D%BC%ED%95%9C%EC%85%80%EB%A0%89%ED%8A%B8/place/11609515?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EA%B2%BD%EC%A3%BC%20%EB%9D%BC%ED%95%9C%EC%85%80%EB%A0%89%ED%8A%B8&entry=bmp&from=map&fromPanelNum=2&timestamp=202601161604&locale=ko&svcName=map_pcv5&searchText=%EA%B2%BD%EC%A3%BC%20%EB%9D%BC%ED%95%9C%EC%85%80%EB%A0%89%ED%8A%B8",
+    "lodging": false,
+    "contact_name": "김라멕 PM",
+    "contact_phone": "010-5503-7422",
+    "contact_email": "ramek.kim@tanabe-pharma.com",
+    "logo_file": "Tanabe Pharma Korea"
+  },
+  "gallery": {
+    "images": [
+      "없음"
+    ],
+    "pdf": "에글란딘 Key Visuals.pdf",
+    "meal_text": "X",
+    "logo_file": "Tanabe Pharma Korea"
+  }
+}
